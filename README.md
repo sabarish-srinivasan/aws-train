@@ -1,4 +1,3 @@
 # aws-train
-Amazon Sagemaker Studio used to train a binary classification model. AWS XGBoost container used to train and tune model. Sagemaker Clarify used to investigate bias and explainability. Reports used to analyze efficacy of features on predictions. Sagemaker SDK used to deploy model to real-time inference point and tested.
-
+Employed Sagemaker Studio and AWS XGBoost container to train and tune binary classification model. Investigated bias and explainability with Sagemaker Clarify. Deployed model to real-time inference point and tested with Sagemaker SDK.
 Credit: AWS Train a Machine Learning Model Tutorial
